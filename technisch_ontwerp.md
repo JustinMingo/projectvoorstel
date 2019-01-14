@@ -42,6 +42,6 @@
 
 
 ### Plugins
-- [Bootsrtap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 
